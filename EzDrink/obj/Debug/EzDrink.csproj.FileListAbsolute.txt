@@ -1,0 +1,8 @@
+D:\visualStudio\EzDrink\EzDrink\bin\Debug\EzDrink.exe.config
+D:\visualStudio\EzDrink\EzDrink\bin\Debug\EzDrink.exe
+D:\visualStudio\EzDrink\EzDrink\bin\Debug\EzDrink.pdb
+D:\visualStudio\EzDrink\EzDrink\obj\Debug\EzDrink.csprojResolveAssemblyReference.cache
+D:\visualStudio\EzDrink\EzDrink\obj\Debug\EzDrink.csproj.GenerateResource.Cache
+D:\visualStudio\EzDrink\EzDrink\obj\Debug\EzDrink.exe
+D:\visualStudio\EzDrink\EzDrink\obj\Debug\EzDrink.pdb
+D:\visualStudio\EzDrink\EzDrink\obj\Debug\EzDrink.EzDrinkForm.resources
